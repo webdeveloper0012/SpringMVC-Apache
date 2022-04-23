@@ -8,7 +8,7 @@
   <name>SpringMVCAppacheTiles3 Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <properties>
-		<springframework.version>4.2.6.RELEASE</springframework.version>
+		<springframework.version>5.3.19</springframework.version>
 		<apachetiles.version>3.0.5</apachetiles.version>
 	</properties>
 
